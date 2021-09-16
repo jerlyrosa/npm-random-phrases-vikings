@@ -17,7 +17,16 @@ const messages = [
    "“La ambición y la venganza siempre están hambrientas”",
    "“Cuando pases por una puerta ajena mira a diestra, mira a siniestra.”",
    "“Las migas son también pan.”",
-   "“No alabes el día hasta que haya llegado la tarde; no alabes a una mujer hasta su pira; no alabes una espada hasta haberla probado; no alabes a una doncella hasta que se haya casado; no alabes el hielo hasta haberlo cruzado; no alabes la cerveza hasta haberla bebido.”"
+   "“No alabes el día hasta que haya llegado la tarde; no alabes a una mujer hasta su pira; no alabes una espada hasta haberla probado; no alabes a una doncella hasta que se haya casado; no alabes el hielo hasta haberlo cruzado; no alabes la cerveza hasta haberla bebido.”",
+   "“Lleva tu espada y tu lanza cuando vayas por un camino, pues algún día puede aparecer tu enemigo.”",
+   "“Mejor pájaro libre que rey cautivo.”",
+   "“Demasiada cerveza, y el corazón de un hombre estará abierto para que todos lo vean”",
+   "“El error es el resultado de dejar que el miedo gobierne tus acciones”",
+   "“No todas las nubes que oscurecen el día traen lluvia ”",
+   "“”",
+
+
+
 ];
 
 const randomMessages = () =>{
