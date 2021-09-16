@@ -19,5 +19,14 @@
   "preferGlobal": true,
   "dependencies": {
     "colors": "^1.4.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sr-jerly/npm-random-phrases-vikings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sr-jerly/npm-random-phrases-vikings/issues"
+  },
+  "homepage": "https://github.com/sr-jerly/npm-random-phrases-vikings#readme"
 }
