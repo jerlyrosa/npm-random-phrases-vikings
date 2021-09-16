@@ -1,4 +1,4 @@
-# random-messages
+# random-phrases-vikings
 
 This is a pack that provides random famous Viking quotes.
 
