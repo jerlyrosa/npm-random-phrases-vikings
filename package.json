@@ -1,6 +1,6 @@
 {
   "name": "random-phrases-vikings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a pack that provides random famous Viking quotes.",
   "main": "src/index.js",
   "scripts": {
