@@ -5,7 +5,7 @@ This is a pack that provides random famous Viking quotes.
 ## Install
 
 ```npm
-npm install -g random-prs-vikings
+npm install -g random-phrases-vikings
 ```
 
 # Usage
