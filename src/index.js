@@ -23,8 +23,6 @@ const messages = [
    "“Demasiada cerveza, y el corazón de un hombre estará abierto para que todos lo vean”",
    "“El error es el resultado de dejar que el miedo gobierne tus acciones”",
    "“No todas las nubes que oscurecen el día traen lluvia ”",
-   "“”",
-
 
 
 ];
