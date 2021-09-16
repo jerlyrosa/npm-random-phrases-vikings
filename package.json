@@ -16,5 +16,8 @@
   "bin": {
     "random-prs-vikings": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }

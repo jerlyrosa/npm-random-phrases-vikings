@@ -1,4 +1,4 @@
-// const colors = require ('colors');
+const colors = require ('colors');
 
 
 const messages = [
@@ -20,13 +20,15 @@ const messages = [
    "“No alabes el día hasta que haya llegado la tarde; no alabes a una mujer hasta su pira; no alabes una espada hasta haberla probado; no alabes a una doncella hasta que se haya casado; no alabes el hielo hasta haberlo cruzado; no alabes la cerveza hasta haberla bebido.”"
 ];
 
-//   ${colors.blue("~VIKINGS")}
-
-//  ${message.italic}
 const randomMessages = () =>{
     const message = messages[Math.floor(Math.random() * messages.length)]
 
-     return console.log(message);
+     return console.log(`
+     ${colors.blue("~VIKINGS")}
+
+        ${message.italic}
+     
+     `);
 }
 
 module.exports = { randomMessages };
